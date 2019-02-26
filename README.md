@@ -7,7 +7,7 @@ hello
 
 *Preferred*
 ```swift
-@IBOutlet weak var firstNameLabel: UILabel!
+@IBOutlet weak var firstNameLabel
 @IBOutlet weak var notesTextView: UITextView!
 @IBOutlet weak var passwordTextField: UITextField!
 @IBOutlet weak var emptyStateView: UIView!
