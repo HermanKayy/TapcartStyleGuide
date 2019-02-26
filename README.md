@@ -1,5 +1,10 @@
 # TapcartStyleGuide
 
+IBOutlets Naming 
+
+**Preferred**
 ```swift
-var hello = "Hello"
+@IBOutlet weak var firstNameLabel!
+@IBOutlet weak var notesTextView
+@IBOutlet weak var passwordTextField
 ```
