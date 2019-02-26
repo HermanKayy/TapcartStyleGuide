@@ -1,8 +1,7 @@
-# TapcartStyleGuide
 
-IBOutlets Naming 
+**IBOutlets Naming**
 
-**Preferred**
+*Preferred*
 ```swift
 @IBOutlet weak var firstNameLabel: UILabel!
 @IBOutlet weak var notesTextView: UITextView!
@@ -10,7 +9,7 @@ IBOutlets Naming
 @IBOutlet weak var emptyStateView: UIView!
 ```
 
-**Not Preferred**
+*Not Preferred*
 ```swift
 @IBOutlet weak var firstName: UILabel!
 @IBOutlet weak var notesField: UITextView!
