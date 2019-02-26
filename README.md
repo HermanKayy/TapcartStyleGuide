@@ -1,5 +1,5 @@
 # TapcartStyleGuide
 
-'''swift
+'''ruby
 var hello = "Hello"
 '''
